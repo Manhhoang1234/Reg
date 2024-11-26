@@ -1,0 +1,88 @@
+# Shadowrocket: 2023-02-15 10:56:11
+[General]
+include = dts.freefireth.com.conf
+
+DanielXit_FreeFire.Reg
+
+[Rule]
+DOMAIN-SUFFIX,aim,PROXY
+DOMAIN-SUFFIX,aim,PROXY
+
+[URL Rewrite]
+aim _aim REJECT-ARRAY
+DanielXit freefireth REJECT-DICT
+
+[Script]
+🎯 = type=rule,script-path=PhoneRegsetting/UTF-8/iPhoneReg/IREG: device:
+iPhone/Version: 15.5/iPhone 12 AdamID: 243834955 NameApp:
+FreeFireTH/com.dts.freefireth/freefireth/ Version: 2.90.2 [Working] Touch:
+0,0000000061 XML: X=3,21 TXT: Y=50,8 Sensitivity: 0x0000078195 0x0000008293
+0x0000007291 [Working] delay= 0,00082 = tapshoot
+{"app_name":"freefireth","timestamp":"2022-6-27 8:06:53.00
++0700","app_version":"1.67.0","slice_uuid":"09d74a1d-7b74-30e0-85c4-
+740d860ee4ec","adam_id":"243834955","build_version":"2019114689","platform":2,"bund
+leID":"com.dts.freefireth","share_with_app_devs":0,"is_first_party":0,"bug_type":"3
+09","os_version":"iPhone IOS 15.5(19B74)","incident_id":"C57CD4A8-F960-4252-88D2-
+B236507C918C","name":"freefireth"} {     "uptime" : 620000,   "procLaunch" : "2022-6-
+27 8:06:10.9192 +0700",    "procRole" : "Foreground",    "version" : 2,    "userID" :
+501,    "deployVersion" : 210,   "modelCode" : "iPhone11,6",    "procStartAbsTime" :
+14763969199415,    "coalitionID" : 2406,    "osVersion" : {     "isEmbedded" : true,
+"train" : "iPhone OS 15.5",      "releaseType" : "User",      "build" : "19B74"     },
+"captureTime" : "2022-6-27 8:06:52.8640 +0700",     "incident" : "C57CD4A8-F960-4252-
+88D2-B236507C918C",    "bug_type" : "309",    "pid" : 28766,   "procExitAbsTime" :
+14956500907588,    "cpuType" : "ARM-64",    "procName" : "freefireth",    "procPath" :
+"\/private\/var\/containers\/Bundle\/Application\/97746729-C0BA-4625-9ECA-
+BE4CA08ADE12\/freefireth.app\/freefireth",     "bundleInfo" :
+{"CFBundleShortVersionString":"1.67.0","CFBundleVersion":"2019114689","CFBundleIden
+tifier":"com.dts.freefireth","DTAppStoreToolsBuild":"13A1030d"},      "storeInfo" :
+{"storeCohortMetadata":"10|date=1636362000000&sf=143471&pgtp=Search&pgid=e0b002a4-
+2519-4cd7-aa78-
+32369bc18fd6&prpg=Genre_179183&ctxt=Search&issrch=1&imptyp=lockup&kind=iosSoftware&
+lngid=43","itemID":"1300146617","deviceIdentifierForVendor":"25AA726E-D782-4016-
+8170-
+2EEFC44B0FBF","softwareVersionExternalIdentifier":"845065173","thirdParty":true,"ap
+plicationVariant":"1:iPhone11,6:13"},     "parentProc" : "launchd",    "parentPid" :
+1,    "coalitionName" : "com.dts.freefireth",    "crashReporterKey" :
+"2a47310b0ad0de2d79e01ae044fe2914988d1cb7",     "basebandVersion" : "4.01.01",
+"isCorpse" : 1,    "exception" : {"codes":"0x0000000000000000,
+0x0000000000000000","rawCodes":[0,0],"type":"EXC_CRASH","signal":"SIGABRT"},
+"ktriageinfo" : "VM - Compressor failed a blocking pager_get\nVM - Compressor
+failed a blocking pager_get\nVM - Compressor failed a blocking pager_get\nVM -
+Compressor failed a blocking pager_get\nVM - Compressor failed a blocking
+pager_get\n",    "asi" : {"libsystem_malloc.dylib":[],"libsystem_c.dylib":["abort()
+called"]},    "faultingThread" : 0,   "threads" :
+[{"triggered":true,"id":5373152,"threadState":{"x":[{"value":0},{"value":0},
+{"value":0},{"value":0},{"value":0},{"value":10000000},{"value":1},{"value":1},
+{"value":9527511727209378282},{"value":9527511722777982058},{"value":1000},
+{"value":10},{"value":0},{"value":50},{"value":1},{"value":2},{"value":328},
+{"value":4431529344,"symbolLocation":0,"symbol":"_main_thread"},
+{"value":5282847564},{"value":6},{"value":259},
+{"value":4431529568,"symbolLocation":224,"symbol":"_main_thread"},
+{"value":6125586000},{"value":4674437120},{"value":0},{"value":0},
+{"value":6125599775},
+{"value":4431529344,"symbolLocation":0,"symbol":"_main_thread"},
+dns-server = RED
+#ipv8 = true
+prefer-ipv6 = false
+dns-fallback-system = false
+dns-direct-system = true
+icmp-auto-reply = true
+always-reject-url-rewrite = false
+  "share_sheet_inputs" : [cofing
+"MouseTrails"="0.5"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+"MouseSpeed"="0"
+"MouseSensitivity"="9"
+"DoubleClickSpeed"="830"
+"DoubleClickHeight"="4"
+"Sensitivity"
+"ngon lamm gud"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,04,\
+  00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"so vip "=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,01,00,00,\
+  00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"lock full "="6"
+"DPI"9000"
+"panel"="1"
+"Aimlock"=dword:100
+"aim"="1"
