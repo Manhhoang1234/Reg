@@ -1,0 +1,646 @@
+# Shadowrocket: 2023-09-01 17:09:23
+[General]
+hijack-dns = 8.8.8.8
+always-real-ip = com.dts.freefireth,com.dts.freefiremax
+tun-included-routes = 8.0.8.0
+tun-excluded-routes = 1.0.0.1
+skip-proxy = 8.8.8.8
+fallback-dns-server = 1.1.1.1,0.0.0.0
+dns-server = com.dts.freefireth,com.dts.freefiremax
+private-ip-answer = true
+prefer-ipv6 = true
+ipv6 = true
+include = com.dts.freefireth.conf
+
+[Host]
+com.highsetting.ips = com.highsetting.ips
+fixlag = server:com.ssjovv.apn
+
+[Script]
+Buff Setting Game = type=http-response,script-
+path=com.highsetting.ips,pattern=com.dts.freefireth,max-
+size=131072,timeout=999999999999999999999,script-update-interval=0,enable=true
+All = type=http-response,script-path=[iOS]": “[unlockfiles]” “seriphone:” "data"
+"Metadata" "[files]": "il2cpp" "contentcache"      "Compulsory"   "ios"
+"gameassetbundles" "config" "avatar" "[Metadata]": aimlock "<head>" "10392"
+"10399" sensitivity "<screen>" "x6" aimfov      "left:50%" "right:50%" "top:50%"
+lock head "100/100"     "[il2cpp]": Animation "fps 120" (alway active) "120hz"
+(alway active) "pings 20"(alway active) "[config]": Sensitivity      ">Start<"
+(alway active) "sensigame <x6> " "screensensi <x8>" "sensiconfig <x2>"
+"[avatar]": aimlock "(head)" "0x90004" "0x20005" "0x30045" "0x60038" "0x02932"
+"0x30067" "0x30039" "0x91004" aimshot "shot head" "100%" "alway active" [iphone]
+"8plus" "8plus" "8plus" "8plus" "8plud" "8plus" "ios": "<15.6.1>" "iOS": "data"
+"[com.dts.freefiremax]" <files> "[il2cpp]": "Metadata" "sensitive" 100231 100432
+100021 <contentcache> <Compulsory> <Ios> <gameassetbundles>       "<config /
+avatar>":   "aimlock` = "fov"_"0x199032" "[amination]" "fps=165" "look "165hz"
+pings:20 <away active>" Resoucer: sensitivity="102178" "100325" "108793" [165hz]
+[Best Nhay Chuan]: "sensitive_x8 main_1093" ui="0x90214" lockmain: "165hz"
+“[Metadata]”=sensitivity “0x100756” “0x100982” “0x102091” “0x100048” “2x200912”
+“4x201983” “8x209159” “[files]”: “<il2cpp>”=sensitivity_x2 “0x100756” “6x200077”
+“1x208429” “0x190826” “2x103948” “0x104929” “[screen sensitivity]”:
+“sensitivity”= x4 “screen sensitivity”= x6 “[gameassetbundles]” “Aimlock”=
+“90x108023” “92x180942” “17x039294” “34x209184” “87x902848” “Aimfov”= “<360°>”
+“<aim-left>” “<aim_right>” “AimlockCenter”= “88v209497” “89v201940” “79v209385”
+“[Animation]”:    “fps:165” “165hz” “pings:20-30” “Sensitivity” “scoop_2= “107902”
+“103829” ”193850”      “scopp_4= “103829” “208183” “108482” [Authentic|V6|]:
+“sensitivity”= “10x937051s” “6x2003792b” “13x100982e” “screen sensitivity”=
+“103988” “091848” “009818”        “828030” “103922” “019391”       “100092” “188002”
+“300029” “[il2cpp]”: “Aim” ”2x900284” “sensitivity” “9x029201“ “x1“ “x2“ “x4” “x8”
+“aimlock”= ”100098” “100892” “102800” "[global_metadata]" "data": "SENSI 100002
+100034 100561 109760" "para" = [sensitive]:100000009089 "sensitivity_ios"
+"tive=9827201001" [global_metadata]: </sensitive> = "100066" "10008 10987 19977
+10098 10281" "sensi_screen" = "max" "increased sensitivity" = "max" [Hard Drive]:
+"165hz <always active>" "fps=90 <always active>" "fix_lag" "fps:165" "<always
+active>" "aim_right=1057048494" "aim_left=1054951342" "aim_above=1053273620" [in
+the game]: "sensitive" "100" "98" "100" "100" "100" "stability" = "fps:165" "165hz"
+"pings20" "mobile device: iphone8plus iphone8plus iphone8plus iphone8plus
+iphone8Plus" "operating system: iOS"15.6.1" ("SENSTIVITY_GUN_MP5")(0×00000000513)
+("SENSITIVITY_GUN_AK") (0×0000000524) ("SENSITIVITY_GUN_M4A1") (0×0000000535)
+("SENSITIVITY_GUN_SCAR") (0×0000000546) ("SENSITIVITY_GUN_GROZA") (0×0000000557)
+("SENSITIVITY_GUN_XM8") (0×0000000568) ("SENSITIVITY_GUN_AN94") (0×0000000579)
+("S,pattern=mtu.zZz,max-size=131072,timeout=2147483647,script-update-
+interval=0,enable=true
+Optimize Head = type=http-response,script-
+path={"crashreporter_key":"38da3f4acdfaeba8c9b138fc1f051450066aee4b","bug_type":"21
+1","timestamp":"2022-09-07 07:00:20.00 +0700","os_version":"iPhone OS 15.6.1
+(19D52)","incident_id":"641252F7-0BDE-4BBF-B223-8CFB18A251FA"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"vi-
+VN","_userInterfaceLanguage":"vi","_userSetRegionFormat":"VN","basebandChipset":"ic
+e16","basebandFirmwareVersion":"6.01.01","configParentUuid":"dfd535c9-4079-45be-
+8377-9060a9394597","configUuid":"3d98ae71-3413-4ba1-a0e4-
+772eac808919","currentCountry":"Vietnam","deviceCapacity":128,"homeCarrierCountry":
+"Vietnam","homeCarrierName":"Viettel
+VN","isDualSim":false,"servingCarrierName":"Viettel VN","startTimestamp":"2022-09-
+06T00:00:03Z","trialExperiments":"0","trialRollouts":"10+","version":"2.2"}
+{"message":
+{"Count":24,"maxUsage":0,"reason":"TimerTriggered","usage":0},"name":"HomeKitDaemon
+MemoryUtilizationV2","sampling":50,"uuid":"31f096c8-bdda-4a71-a2b7-2e153e153fdd_2"}
+{"message":
+{"Count":7,"clientName":"Preferences","daily_total_counter":32,"messageName":"kFetc
+hHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"SpringBoard","daily_total_counter":7,"messageName":"HMHM.r
+tsur"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-459d-
+4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"SpringBoard","daily_total_counter":21,"messageName":"kFetc
+hHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"accountsd","daily_total_counter":7,"messageName":"kPrimary
+AccountWasModifiedRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"accountsd","daily_total_counter":7,"messageName":"kRegiste
+rWithDaemonRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid"
+:"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"amsaccountsd","daily_total_counter":14,"messageName":"HMUC
+SM.reg"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-
+459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"amsaccountsd","daily_total_counter":21,"messageName":"kFet
+chHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":5
+0,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"announced","daily_total_counter":7,"messageName":"HMHM.rts
+ur"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-459d-
+4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"announced","daily_total_counter":16,"messageName":"kFetchH
+omeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"
+uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"assistantd","daily_total_counter":14,"message,pattern=com.
+dts.freefireth,max-size=131072,timeout=999999999999999999999999999999,script-
+update-interval=0,enable=true
+Center Lock = type=http-response,script-path=Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility]
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\0]
+"AimAssist"=dword:000003e8 "AimBot"=dword:000003e8 "AimbotHeadLetf"=dword:000003e8
+"AimbotHeadshot"=dword:000003e8 "AimbotSpeed"=dword:000003e8
+"AimFov"=dword:000003e8 "AimHead"=dword:000003e8 "AimHeadRight"=dword:000003e8
+"AimHeadshot"=dword:000003e8 "AimLok"=dword:000003e8 "AimSpeed"=dword:000003e8
+"AutoHeadshots"=dword:000003e8 "Beep"="No" "Beep2"="No"
+"DoubleClickHead"=dword:000001f4 "DoubleClickWidth"=dword:00000002
+"ExtendedSounds"="No" "FovAutoHeadshot"=dword:001003e8 "FovHead"=dword:000003e8
+"Headshot"=dword:001003e8 "keyboard"=dword:00000064 "keyboardSpeed"=dword:00000064
+"MouseSensitivity"=dword:00000102 "MouseHead"=dword:00000064
+"MouseHeadLeft"=dword:00000002 "MouseHeadRight"=dword:00000004
+"sensibility"=dword:00000064 "CPU"=dword:00000064 "DPI"=dword:00000384
+"Fov"=dword:01e849f5 "generalemulatorsensitivity"=dword:00000050
+"GPU"=dword:00000064 "joystick"=dword:000003e8 "LEFTCLICK"=dword:000003e8
+"SMALLESTWIDTH"=dword:000002ee "speedofmovement"=dword:00000064
+"touchsensitivyty"=dword:00000102 "X"=dword:000003e8 "Y"=dword:000003e8
+"sensitivity"=dword:00000064 "Imput Lag"=dword:00000064 "Delay"=dword:00000001
+"Aceleration"=dword:00000032 "Lock Mouse"="False" "Ajuste"=dword:00000010
+"NoRecoil"=hex(7):66,00,75,00,6e,00,63,00,74,00,69,00,6f,00,6e,00,20,00,53,00,\
+69,00,6e,00,20,00,52,00,65,00,74,00,72,00,6f,00,63,00,65,00,73,00,6f,00,28,\
+00,29,00,00,00,69,00,66,00,20,00,62,00,6c,00,61,00,6e,00,63,00,61,00,20,00,\
+3d,00,3d,00,20,00,22,00,e2,00,9d,00,52,01,e2,00,dc,02,3a,20,22,00,74,00,68,\
+00,65,00,6e,00,00,00,20,00,20,00,67,00,67,00,2e,00,73,00,65,00,74,00,52,00,\
+61,00,6e,00,67,00,65,00,73,00,20,00,20,00,28,00,33,00,32,00,29,00,00,00,20,\
+00,20,00,67,00,67,00,2e,00,73,00,65,00,61,00,72,00,63,00,68,00,4e,00,75,00,\
+6d,00,62,00,65,00,72,00,20,00,20,00,28,00,5b,00,5b,00,30,00,30,00,72,00,3b,\
+00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,33,00,46,00,72,00,3b,00,\
+30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,38,00,30,00,72,00,3b,00,33,\
+00,46,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,\
+30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,\
+00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,\
+72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,33,00,46,00,72,\
+00,3a,00,3a,00,32,00,30,00,5d,00,5d,00,2c,00,20,00,31,00,29,00,00,00,20,00,\
+20,00,67,00,67,00,2e,00,67,00,65,00,74,00,52,00,65,00,73,00,75,00,6c,00,74,\
+00,73,00,20,00,28,00,32,00,30,00,29,00,00,00,20,00,20,00,67,00,67,00,2e,00,\
+65,00,64,00,69,00,74,00,41,00,6c,00,6c,00,20,00,20,00,20,00,28,00,5b,00,5b,\
+00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,41,00,30,00,72,00,3b,00,\
+34,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,38,\
+00,30,00,72,00,3b,00,33,00,46,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,\
+30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,\
+00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,\
+72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,41,00,30,00,72,\
+00,3b,00,34,00,30,00,72,00,5d,00,5d,00,2c,00,20,00,31,00,29,00,00,00,20,00,\
+20,00,67,00,67,00,2e,00,63,00,6c,00,65,00,61,00,72,00,52,00,65,00,73,00,75,\
+00,6c,00,74,00,73,00,20,00,20,00,28,00,29,00,00,00,67,00,67,00,2e,00,74,00,\
+6f,00,61,00,73,00,74,00,28,00,22,00,41,00,63,00,74,00,69,00,76,00,61,00,64,\
+00,6f,00,22,00,29,00,00,00,62,00,6c,00,61,00,6e,00,63,00,61,00,20,00,3d,00,\
+20,00,22,00,e2,00,53,01,26,20,e2,00,dc,02,3a,20,22,00,20,00,20,00,20,00,00,\
+00,65,00,6c,00,73,00,65,00,69,00,66,00,20,00,62,00,6c,00,61,00,6e,00,63,00,\
+61,00,20,00,3d,00,3d,00,20,00,22,00,e2,00,53,01,26,20,e2,00,dc,02,3a,20,22,\
+00,74,00,68,00,65,00,6e,00,00,00,20,00,20,00,67,00,67,00,2e,00,73,00,65,00,\
+74,00,52,00,61,00,6e,00,67,00,65,00,73,00,20,00,28,00,33,00,32,00,29,00,00,\
+00,20,00,20,00,67,00,67,00,2e,00,73,00,65,00,61,00,72,00,63,00,68,00,4e,00,\
+75,00,6d,00,62,00,65,00,72,00,20,00,20,00,28,00,5b,00,5b,00,30,00,30,00,72,\
+00,3b,00,30,00,30,00,72,00,3b,00,41,00,30,00,72,00,3b,00,34,00,30,00,72,00,\
+3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,38,00,30,00,72,00,3b,\
+00,33,00,46,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,\
+30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,\
+00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,\
+30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,41,00,30,00,72,00,3b,00,34,00,30,\
+00,72,00,3a,00,3a,00,32,00,30,00,5d,00,5d,00,2c,00,20,00,31,00,29,00,00,00,\
+20,00,20,00,67,00,67,00,2e,00,67,00,65,00,74,00,52,00,65,00,73,00,75,00,6c,\
+00,74,00,73,00,20,00,20,00,28,00,32,00,30,00,29,00,00,00,20,00,20,00,67,00,\
+67,00,2e,00,65,00,64,00,69,00,74,00,41,00,6c,00,6c,00,20,00,20,00,28,00,5b,\
+00,5b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,\
+3b,00,33,00,46,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,\
+00,38,00,30,00,72,00,3b,00,33,00,46,00,72,00,3b,00,30,00,30,00,72,00,3b,00,\
+30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,\
+00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,\
+30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,00,72,00,3b,00,30,00,30,\
+00,72,00,3b,00,33,00,46,00,72,00,5d,00,5d,00,2c,00,20,00,31,00,29,00,00,00,\
+20,00,20,00,67,00,67,00,2e,00,63,00,6c,00,65,00,61,00,72,00,52,00,65,00,73,\
+00,75,00,6c,00,74,00,73,00,20,00,20,00,28,00,29,00,00,00,67,00,67,00,2e,00,\
+74,00,6f,00,61,00,73,00,74,00,28,00,22,00,44,00,65,00,73,00,61,00,74,00,69,\
+00,76,00,61,00,64,00,6f,00,22,00,29,00,00,00,62,00,6c,00,61,00,6e,00,63,00,\
+61,00,20,00,3d,00,20,00,22,00,e2,00,9d,00,52,01,e2,00,dc,02,3a,20,22,00,20,\
+00,20,00,00,00,65,00,6e,00,64,00,00,00,65,00,6e,00,64,00,00,00,00,00 "Nuevo valor
+#1"=hex(7):67,00,67,00,2e,00,73,00,65,00,74,00,52,00,61,00,6e,00,\
+67,00,65,00,73,00,28,00,67,00,67,00,2e,00,52,00,45,00,47,00,49,00,4f,00,4e,\
+00,5f,00,43,00,4f,00,44,00,45,00,5f,00,41,00,50,00,50,00,29,00,20,00,00,00,\
+6e,00,61,00,6d,00,65,00,28,00,22,00,6c,00,69,00,62,00,69,00,6c,00,32,00,63,\
+00,70,00,70,00,2e,00,73,00,6f,00,22,00,29,00,20,00,6d,00,79,00,6f,00,66,00,\
+66,00,73,00,65,00,74,00,20,00,3d,00,20,00,30,00,78,00,38,00,45,00,43,00,32,\
+00,30,00,30,00,20,00,00,00,6f,00,72,00,69,00,67,00,69,00,6e,00,61,00,6c,00,\
+28,00,22,00,37,00,46,00,20,00,34,00,35,00,20,00,34,00,43,00,20,00,34,00,36,\
+00,20,00,30,00,31,00,20,00,30,00,31,00,20,00,30,00,31,00,20,00,30,00,30,00,\
+22,00,29,00,20,00,00,00,72,00,65,00,70,00,6c,00,61,00,63,00,65,00,64,00,28,\
+00,22,00,30,00,30,00,20,00,30,00,30,00,20,00,33,00,34,00,20,00,34,00,33,00,\
+22,00,29,00,00,00,67,00,67,00,2e,00,63,00,6c,00,65,00,61,00,72,00,52,00,65,\
+00,73,00,75,00,6c,00,74,00,73,00,28,00,29,00,00,00,00,00
+"AimbotHeadLeft"=dword:0000005a "AimHeadRightClick"=dword:0000005a
+"HKEY_LOCAL_MACHINE\\SOFTWARE\\BlueStacks_msi2\\Guests\\Android\\sensibility\\
+0"="yes" "Aim assist"="yes" "Aim assist2"="yes" "Aim
+Lock"=hex:58,34,36,2c,34,39,30,30,59,35,31,2c,37,35,30,30 "Aim Lock2"="yes" "Aim
+Bot"=hex:3c,52,00,00,00,00,00,00,31,52,00,00,00,00,00,00 "Aim bot Headshot"="
+496826171875.00 458099365234375.00" "Aim bot Headshot2"="yes" "Aim Head2"="yes"
+"Aim Bot2"="yes" "Aim Head"=hex:58,34,37,2c,37,35,30,30,59,35,31,2c,37,35,30,30
+"AEnablePMTUBHDetect"=dword:00000000 "EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:00007fff "TcpMaxDupAcks"=dword:00000002
+"SackOpts"=dword:00000001 "Tcp1323Opts"=dword:00000001
+"TcpWindowSize"=dword:00007fff "Touch&3Dsensitive"=",0.183.117.18/24" "Look around
+sensitive"=",205.100.175.0/24" "IP-speed"="100.92.89.7/14" "IA-
+deplay"="0.92.0.0087/19" "3D-center"="0.199.22.9/21," "freefireMax"="0"
+"freefire"="0" "host"="0" "touch adaptation"="0" "swipe gesture"="0"
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\1]
+"å¾·å¾·å¾·"=hex:39,32,31,38,38,36,38,34,33,37,32,32,37,34,30,35,33,31,32
+"å¾·å¾·å¾·å¾·"=hex:39,32,31,38,38,36,38,34,33,37,32,32,37,34,30,35,33,31,32
+"X"="3e8" "X2"="1000" "X3"="1000" "X4"="1000" "X5"="1000" "X6"="1000" "Y"="3e8"
+"Y2"="1000" "Y3"="1000" "Y4"="1000" "Y5"="1000" "Y6"="1000" "Fov"=dword:01e849f5
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\2]
+"sensibility"=dword:00000064 "SMALLESTWIDTH"=dword:000002ee
+"speedofmovement"=dword:00000064 "touchsensitivyty"=dword:000001c2
+"X"=dword:000003e8 "Y"=dword:000003e8 "CPU"=dword:00000064 "GPU"=dword:00000064
+"DPI"=dword:000000f0 "generalemulatorsensitivity"=dword:00000064
+"joystick"=dword:000003e8 "Fov"=dword:01e849f5 "LEFTCLICK"=dword:000003e8
+"AimAssist"=dword:000003e8 "AimBot"=dword:000003e8 "AimbotHeadLetf"=dword:000003e8
+"AimbotHeadshot"=dword:000003e8 "AimbotSpeed"=dword:000003e8
+"AimFov"=dword:000003e8 "AimHead"=dword:000003e8 "AimHeadRight"=dword:000003e8
+"AimHeadshot"=dword:000003e8 "AimLok"=dword:000003e8 "AimSpeed"=dword:000003e8
+"AutoHeadshots"=dword:000003e8 "Beep"="No" "Beep2"="No"
+"DoubleClickHead"=dword:000001f4 "DoubleClickWidth"=dword:00000002
+"ExtendedSounds"="No" "FovAutoHeadshot"=dword:001003e8 "FovHead"=dword:000003e8
+"Headshot"=dword:001003e8 "keyboard"=dword:00000064 "keyboardSpeed"=dword:00000064
+"MouseSensitivity"=dword:00000102 "MouseHead"=dword:00000064
+"MouseHeadLeft"=dword:00000002 "MouseHeadRight"=dword:00000004
+"VCPUs"=dword:00000002 "GlRenderMode"=dword:00000004 "GlMode"=dword:00000001
+"Camera"=dword:00000001 "ConfigSynced"=dword:00000001 "HScroll"=dword:00000001
+"GpsMode"=dword:00000001 "FileSystem"=dword:00000001
+"StopZygoteOnClose"=dword:00000000 "FenceSyncType"=dword:00000001
+ "FrontendNoClose"=dword:00000000 "GpsSource"=dword:00000000 "GpsLatitude"=""
+"GpsLongitude"="" "GlPort"=dword:00000f3d "HostSensorPort"=dword:00000b69
+"SoftControlBarHeightLandscape"=dword:00000000
+"SoftControlBarHeightPortrait"=dword:00000000 "GrabKeyboard"=dword:00000000
+"DisableDWM"=dword:00000000 "DisablePcIme"=dword:00000000
+"EnableBSTVC"=dword:00000000 "IsGoogleSigninDone"=dword:00000001
+"ForceVMLegacyMode"=dword:00000001 "FrontendServerPort"=dword:00000b41
+"BstAndroidPort"=dword:0000270f "TriggerMemoryTrimThreshold"=dword:000002bc
+"TriggerMemoryTrimTimerInterval"=dword:0000ea60 "BstAdbPort"=dword:000015b3
+"HostForwardSensorPort"=dword:00002ee0 "LastBootDate"="04/02/2021"
+"Volume"=dword:0000000e "IsOneTimeSetupDone"=dword:00000001 "Locale"="pt-BR"
+"IsMuted"=dword:00000000 "IsGoogleSigninPopupShown"=dword:00000001
+"RIGHTCLICK"=dword:000003e8 "rightclicklifter"=dword:000003e8
+"sensitivity"=dword:00000064 "touchsensitivity"=dword:00000102
+"MouseSpeed"=dword:00000064 "AimLock"=dword:000003e8 "AutoHeadshot"=dword:000003e8
+"AimHeadRightClickLifter"=dword:000003e8 "AimbotHeadLeftClickLifter"=dword:000003e8
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\3]
+"touchsensitivity"=dword:000000e1 "Delay"="5"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,ae,1e,05,00,00,00,00,00,5c,3d,\
+0a,00,00,00,00,00,0a,5c,0f,00,00,00,00,00,b8,7a,14,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,00,00,38,00,00,00,00,00,00,00,\
+70,00,00,00,00,00,00,00,a8,00,00,00,00,00,00,00,e0,00,00,00,00,00 "X2"="1000"
+"Y2"="1000" "X3"="1000" "Y3"="1000" "X4"="1000" "X5"="1000" "Y4"="1000" "Y5"="1000"
+"X6"="1000" "Y6"="1000" "Aim assist"="1000" "Aim assist2"="1000" "Aim
+Lock"=hex:58,34,36,2c,34,39,30,30,59,35,31,2c,37,35,30,30 "Aim Lock2"="yes" "Aim
+Bot"=hex:3c,52,00,00,00,00,00,00,31,52,00,00,00,00,00,00 "Aim bot Headshot"="
+496826171875.00 458099365234375.00" "Aim bot Headshot2"="yes" "Aim Head2"="yes"
+"Mouse Lock"=" 496826171875.00 458099365234375.00" "Mouse LockX"="V" "Mouse
+LockX2"="B" "Mouse LockY"="N" "Mouse LockY2"="M" "Aim Bot2"="yes" "Aim
+Head"=hex:58,34,37,2c,37,35,30,30,59,35,31,2c,37,35,30,30 "Fov"=dword:01e849f5
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\4]
+"touchsensitivity"=dword:000000e1 "Delay"="5"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,ae,1e,05,00,00,00,00,00,5c,3d,\
+0a,00,00,00,00,00,0a,5c,0f,00,00,00,00,00,b8,7a,14,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,00,00,38,00,00,00,00,00,00,00,\
+70,00,00,00,00,00,00,00,a8,00,00,00,00,00,00,00,e0,00,00,00,00,00
+"CPU"=dword:00000064 "DPI"=dword:00004402 "Fov"=dword:01e849f5
+"generalemulatorsensitivity"=dword:00000064 "GPU"=dword:00000064
+"joystick"=dword:000003e8 "LEFTCLICK"=dword:000003e8 "sensitivity"=dword:00000064
+"SMALLESTWIDTH"=dword:000002ee "speedofmovement"=dword:00000078
+"touchsensitivyty"=dword:000002d0 "X"=dword:000003e8 "SMALLESTWIDHT"=dword:000002ee
+"Y"=dword:000003e8 "X2"="1000" "Y2"="1000" "X3"="1000" "Y3"="1000" "X4"="1000"
+"X5"="1000" "Y4"="1000" "Y5"="1000" "X6"="1000" "Y6"="1000" "Aim assist"="yes" "Aim
+assist2"="yes" "Aim Lock"=hex:58,34,36,2c,34,39,30,30,59,35,31,2c,37,35,30,30 "Aim
+Lock2"="yes" "Aim Bot"=hex:3c,52,00,00,00,00,00,00,31,52,00,00,00,00,00,00 "Aim bot
+Headshot"=" 496826171875.00 458099365234375.00" "Aim bot Headshot2"="yes" "Aim
+Head2"="yes" "Mouse Lock"=" 496826171875.00 458099365234375.00" "Mouse LockX"="98"
+"Mouse LockX2"="42" "Mouse LockY"="43" "Mouse LockY2"="54" "Aim Bot2"="yes" "Aim
+Head"=hex:58,34,37,2c,37,35,30,30,59,35,31,2c,37,35,30,30 [HKEY_LOCAL_MACHINE\
+SOFTWARE\BlueStacks_msi2\Guests\Android\sensibility\5] "sensibility"=dword:00000064
+"SMALLESTWIDTH"=dword:000002ee "speedofmovement"=dword:00000064
+"touchsensitivyty"=dword:000001c2 "X"=dword:000003e8 "Y"=dword:000003e8
+"CPU"=dword:00000064 "GPU"=dword:00000064 "DPI"=dword:000000f0
+"generalemulatorsensitivity"=dword:00000064 "joystick"=dword:000003e8
+"Fov"=dword:01e849f5 "LEFTCLICK"=dword:000003e8 "AimAssist"=dword:000003e8
+"AimBot"=dword:000003e8 "AimbotHeadLetf"=dword:000003e8
+"AimbotHeadshot"=dword:000003e8 "AimbotSpeed"=dword:000003e8
+"AimFov"=dword:000003e8 "AimHead"=dword:000003e8 "AimHeadRight"=dword:000003e8
+"AimHeadshot"=dword:000003e8 "AimLok"=dword:000003e8 "AimSpeed"=dword:000003e8
+"AutoHeadshots"=dword:000003e8 "Beep"="No" "Beep2"="No"
+"DoubleClickHead"=dword:000001f4 "DoubleClickWidth"=dword:00000002
+"ExtendedSounds"="No" "FovAutoHeadshot"=dword:001003e8 "FovHead"=dword:000003e8
+"Headshot"=dword:001003e8 "keyboard"=dword:00000064 "keyboardSpeed"=dword:00000064
+"MouseSensitivity"=dword:00000102 "MouseHead"=dword:00000064
+"MouseHeadLeft"=dword:00000002 "MouseHeadRight"=dword:00000004
+"VCPUs"=dword:00000002 "GlRenderMode"=dword:00000004 "GlMode"=dword:00000001
+"Camera"=dword:00000001 "ConfigSynced"=dword:00000001 "HScroll"=dword:00000001
+"GpsMode"=dword:00000001 "FileSystem"=dword:00000001
+"StopZygoteOnClose"=dword:00000000 "FenceSyncType"=dword:00000001
+"FrontendNoClose"=dword:00000000 "GpsSource"=dword:00000000 "GpsLatitude"=""
+"GpsLongitude"="" "GlPort"=dword:00000f3d "HostSensorPort"=dword:00000b69
+"SoftControlBarHeightLandscape"=dword:00000000
+"SoftControlBarHeightPortrait"=dword:00000000 "GrabKeyboard"=dword:00000000
+"DisableDWM"=dword:00000000 "DisablePcIme"=dword:00000000
+"EnableBSTVC"=dword:00000000 "IsGoogleSigninDone"=dword:00000001
+"ForceVMLegacyMode"=dword:00000001 "FrontendServerPort"=dword:00000b41
+"BstAndroidPort"=dword:0000270f "TriggerMemoryTrimThreshold"=dword:000002bc
+"TriggerMemoryTrimTimerInterval"=dword:0000ea60 "BstAdbPort"=dword:000015b3
+"HostForwardSensorPort"=dword:00002ee0 "LastBootDate"="04/02/2021"
+"Volume"=dword:0000000e "IsOneTimeSetupDone"=dword:00000001 "Lo
+Lock = type=http-response,script-path=("SENSTIVITY_GUN_MP5")(0×000000513)
+("SENSTIVITY_GUN_UMP")(0×0000000952) ("SENSTIVITY_GUN_M1887")(0×00000007)
+("SENSTIVITY_GUN_DE")(0×000000691) ("SENSTIVITY_GUN_M1014")(0×000000517)
+("SENSTIVITY_GUN_MP40")(0×000000999) ("SENSTIVITY_HEADSHOT_GUN_MP5")(0×000000513)
+("SENSTIVITY_HEADSHOT_GUN_UMP")(0×0000000952) ("SENSTIVITY_HEADSHOT_GUN_M1887")
+(0×00000007) ("SENSTIVITY_HEADSHOT_GUN_DE")(0×000000691)
+("SENSTIVITY_HEADSHOT_GUN_M1014")(0×000000517) ("SENSTIVITY_HEADSHOT_GUN_MP40")
+(0×000000999) TOUCH DPI: [0×0000512 - 0×0000612] [0×0000713 - 0×0000915] [0×0000915
+- 0×0000854] [0×0000793 - 0×0000735] [0×0000674 - 0×0000849] [0×0000791 -
+0×0000754] [0×0000991 - 0×0000256] Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\SharedFolder\0] "trooper"=""
+"x"=dword:00000000 "y"=dword:00000444 "dpi"=dword:00000120 "smooth
+screen"=dword:00000120 "smooth x"=dword:00000120 "smooth y"=dword:00000240 "smooth
+sensitivity"=dword:00000120 "touch sensitivity"="25,8" "touch speed "="11,6"
+"sensitive"=dword:00001000 "lock"="0,4" "HoverTime"=dword:00010600 "fix
+delay"=dword:00001000 "AimLock"=dword:00000500 eaviest stack for the target
+process:   16 ??? (<2F28A224-0775-36D0-B118-8EACCC225191> + 98896) [0x10add8250]
+16 ??? (freefiremax + 19632) [0x104ee4cb0]     16 ??? (UIKitCore + 2625900)
+[0x1858b816c]   16 ??? (UIKitCore + 5159824) [0x185b22b90]     16 ???
+(GraphicsServices + 6560) [0x1a36999a0]    16 ??? (CoreFoundation + 122396)
+[0x1832eee1c]   16 ??? (CoreFoundation + 45296) [0x1832dc0f0]      16 ???
+(CoreFoundation + 318172) [0x18331eadc]    16 ??? (CoreFoundation + 304364)
+[0x18331b4ec]   16 ??? (CoreFoundation + 42652) [0x1832db69c]      16 ???
+(QuartzCore + 92996) [0x186e01b44]    16 ??? (QuartzCore + 66424) [0x186dfb378]
+16 ??? (freefiremax + 53112) [0x104eecf78]     15 ??? (freefiremax + 53404)
+[0x104eed09c]   15 ??? (freefiremax + 12124676) [0x105a70204]      15 ???
+(freefiremax + 9157500) [0x10579bb7c]    15 ??? (freefiremax + 9157032)
+[0x10579b9a8]   15 ??? (freefiremax + 9156980) [0x10579b974]     4    ???
+(freefiremax + 9169844) [0x10579ebb4]    2   ??? (freefiremax + 7856952)
+[0x10565e338]   1   ??? (freefiremax + 7827280) [0x105656f50]    1    ???
+(freefiremax + 7823508) [0x105656094]    1   ??? (freefiremax + 8139664)
+[0x1056a3390]   1   ??? (freefiremax + 8176988) [0x1056ac55c]    1    ???
+(freefiremax + 8174048) [0x1056ab9e0]    1   ??? (freefiremax + 8169052)
+[0x1056aa65c]   1   ??? (freefiremax + 9751400) [0x10582cb68]    1    ???
+(freefiremax + 8171008) [0x1056aae00]    1   ??? (freefiremax + 9736836)
+[0x105829284] SSEFE,pattern=com.dts.freefireth,max-
+size=131072,timeout=999999999999999999999999999999,script-update-
+interval=0,enable=true
+Sensi x2 = type=http-response,script-path=#open source code on<true>
+<com.v2cross.proxy> <configuration>      <1440dpi>Windows Registry Editor Version
+5.00 ; Windows_10+8.x_MouseFix_ItemsSize=100%_Scale=1-to-1_@6-of-11
+[HKEY_CURRENT_USER\Control Panel\Mouse] "SmoothMouseXCurve"=hex:\
+43,00,00,00,22,00,00,00,\ C0,CC,0C,00,00,00,00,00,\ 80,99,19,00,03,00,00,00,\
+40,66,26,00,00,0C,00,00,\
+00,33,33,00,00,00,00,00,00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,z0,e0,7a,00010
+0 "SmoothMouseYCurve"=hex:\ 42,32,00,00,00,00,00,00,\ 00,00,38,00,00,00,53,00,\
+00,00,70,00,10,00,00,00,\ 00,00,A8,00,00,00,00,00,\
+01,00,E0,00,00,00,00,01,90,,66,a6,02,00,0000100 [HKEY_CURRENT_USER\Control Panel\
+Mouse] "ActiveWindowTracking"=dword:00000001 "Beep"="No" "DoubleClickHeight"="4"
+"DoubleClickSpeed"="500" =hex(-14):-856-64 "DoubleClickWidth"="4" =hex(-14):125-65
+"ExtendedSounds"="No" "MouseHoverHeight"="4" "MouseHoverTime"="400"
+"MouseHoverWidth"="4" "MouseSensitivity"="6" "MouseSpeed"="123"
+"MouseThreshold1"="24" "MouseThreshold2"="52" "MouseTrails"="0"
+"SnapToDefaultButton"="0" "SwapMouseButtons"="0" "TcpWindowSize"=dword:0005ae4c
+"TcpNoDelay"=hex(b):7f,14,00,00,00,00,00,00 "TCPDelAckTicks"=dword:00000005
+"Tcp1323Opts"=dword:00000003 "TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001 "DefaultTTL"=dword:00007fff "Beep2"="No"
+"EnablePMTUDiscovery"=dword:00000001 "EnablePMTUBHDetect"=dword:00000000
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse] "Beep2"="No" "DoubleClickHeight2"="0,9"
+"DoubleClickSpeed2"="0,47" "DoubleClickWidth2"="0,5" "MouseHoverHeight2"=hex(-14):-
+25-64 "MouseThreshold"="6" "MouseThreshold"="10" [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacks\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\
+Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+00,00 [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Iphone\Network\Redirect]
+"tcp/5555"=dword:000015b3 "tcp/6666"=dword:00001a0a "tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f "udp/12000"=dword:00002ee0 [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacksmsi\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\
+Guests\Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,,pattern=com.dts.freefireth,max-
+size=131072,timeout=999999999999999999999999999999999,script-update-
+interval=0,enable=true
+Aimbot + = type=http-response,script-
+path={"app_name":"freefireth","timestamp":"2023-08-14 19:02:55.00
++0700","app_version":"1.100.1","slice_uuid":"13717efe-da0a-3b1e-bfa5-
+06f3866ab587","build_version":"2019116546","platform":2,"bundleID":"B9ULZ89TN4.com.
+dts.dinhtu","share_with_app_devs":0,"is_first_party":0,"bug_type":"309","os_version
+":"iPhone OS 16.5
+(20F66)","roots_installed":0,"name":"freefireth","incident_id":"7E90AD9D-32AC-41C8-
+8FBB-7C42AC358D7C"} {    "uptime" : 120000,    "procRole" : "Foreground",   "version"
+: 2,   "userID" : 501,    "deployVersion" : 210,    "modelCode" : "iPhone10,6",
+"coalitionID" : 1783,    "osVersion" : {     "isEmbedded" : true,      "train" :
+"iPhone OS 16.5",      "releaseType" : "User",      "build" : "20F66"   },
+"captureTime" : "2023-08-14 19:02:54.3134 +0700",     "incident" : "7E90AD9D-32AC-
+41C8-8FBB-7C42AC358D7C",       "pid" : 17339,    "cpuType" : "ARM-64",
+"roots_installed" : 0,       "bug_type" : "309",    "procLaunch" : "2023-08-14
+19:02:54.2984 +0700",       "procStartAbsTime" : 3024087936806,     "procExitAbsTime" :
+3024088287217,     "procName" : "freefireth",      "procPath" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/freefireth",    "bundleInfo" :
+{"CFBundleShortVersionString":"1.100.1","CFBundleVersion":"2019116546","CFBundleIde
+ntifier":"B9ULZ89TN4.com.dts.dinhtu","DTAppStoreToolsBuild":"14E221"},
+"storeInfo" : {"deviceIdentifierForVendor":"9D7E66DF-EE02-4BC4-A8DB-
+98EA382DBF40","thirdParty":true},       "parentProc" : "launchd",     "parentPid" : 1,
+"coalitionName" : "B9ULZ89TN4.com.dts.dinhtu",        "crashReporterKey" :
+"8130fdb05b2a7bea83577b705156f05df8a290a7",        "wasUnlockedSinceBoot" : 1,
+"isLocked" : 0,     "codeSigningID" : "B9ULZ89TN4.com.dts.dinhtu",
+"codeSigningTeamID" : "B9ULZ89TN4",       "codeSigningFlags" : 570434309,
+"codeSigningValidationCategory" : 3,       "codeSigningTrustLevel" : 0,
+"basebandVersion" : "6.00.00",       "exception" : {"codes":"0x0000000000000000,
+0x0000000000000000","rawCodes":[0,0],"type":"EXC_CRASH","signal":"SIGABRT"},
+"termination" : {"code":1,"flags":518,"namespace":"DYLD","indicator":"Library
+missing","details":["(terminated at launch; ignore backtrace)"],"reasons":["Library
+not loaded:
+\/Library\/Frameworks\/CydiaSubstrate.framework\/CydiaSubstrate","Referenced from:
+<7FC2EEF3-43C0-3B30-9757-2D8AD2F8D3A8>
+\/Volumes\/VOLUME\/*\/ĐặngCôngTảo.app\/key.dylib","Reason: tried:
+'\/Library\/Frameworks\/CydiaSubstrate.framework\/CydiaSubstrate' (no such file),
+'\/private\/preboot\/Cryptexes\/OS\/Library\/Frameworks\/CydiaSubstrate.framework\/
+CydiaSubstrate' (no such file),
+'\/Library\/Frameworks\/CydiaSubstrate.framework\/CydiaSubstrate' (no such file),
+'\/System\/Library\/Frameworks\/CydiaSubstrate.framework\/CydiaSubstrate' (no such
+file, not in dyld cache)"]},       "faultingThread" : 0,    "threads" :
+[{"triggered":true,"id":1495174,"threadState":{"x":[{"value":6},{"value":1},
+{"value":6101341792},{"value":195},{"value":6101340768},{"value":0},{"value":0},
+{"value":0},{"value":32},{"value":9},{"value":7310575239337042549},
+{"value":8463143787720876071},{"value":7358996567504920687},
+{"value":8390045715277376617},{"value":7236292172225341728},
+{"value":11651973063467808},{"value":521},{"value":2},{"value":0},{"value":0},
+{"value":6101340768},{"value":195},{"value":6101341792},{"value":1},{"value":6},
+{"value":8},{"value":1},
+{"value":8022884120,"symbolLocation":0,"symbol":"_NSConcreteStackBlock"},
+{"value":0}],"flavor":"ARM_THREAD_STATE64","lr":{"value":7064361932},"cpsr":
+{"value":0},"fp":{"value":6101340720},"sp":{"value":6101340656},"esr":
+{"value":1442840704,"description":" Address size fault"},"pc":
+{"value":7064321764,"matchesCrashFrame":1},"far":{"value":8022884032}},"frames":
+[{"imageOffset":413412,"symbol":"__abort_with_payload","symbolLocation":8,"imageInd
+ex":12},
+{"imageOffset":453580,"symbol":"abort_with_payload_wrapper_internal","symbolLocatio
+n":100,"imageIndex":12},
+{"imageOffset":453628,"symbol":"abort_with_payload","symbolLocation":12,"imageIndex
+":12},{"imageOffset":98076,"symbol":"dyld4::halt(char
+const*)","symbolLocation":324,"imageIndex":12},
+{"imageOffset":91240,"symbol":"dyld4::prepare(dyld4::APIs&, dyld3::MachOAnalyzer
+const*)","symbolLocation":3540,"imageIndex":12},
+{"imageOffset":82656,"symbol":"start","symbolLocation":1760,"imageIndex":12}]}],
+"usedImages" : [     {       "source" : "P",      "arch" : "arm64",      "base" :
+4365533184,       "size" : 98041856,       "uuid" : "13717efe-da0a-3b1e-bfa5-
+06f3866ab587",       "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/freefireth",      "name" : "freefireth"     },
+{      "source" : "P",        "arch" : "arm64",      "base" : 4484366336,       "size" :
+65536,      "uuid" : "5b27805f-80b2-3404-87c2-8f64e2cbc1ae",          "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FBLPromises.framework\/FBLPromises",
+"name" : "FBLPromises"       },    {      "source" : "P",       "arch" : "arm64",
+"base" : 4484775936,         "size" : 65536,       "uuid" : "a7efcd57-c315-3c84-8fd7-
+981649cd2d09",       "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FirebaseCore.framework\/FirebaseCore",
+"name" : "FirebaseCore"       },     {     "source" : "P",        "arch" : "arm64",
+"base" : 4484268032,         "size" : 32768,       "uuid" : "c11d5644-c8aa-32b9-9b71-
+1e9faf705212",       "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FirebaseCoreDiagnostics.framework\/
+FirebaseCoreDiagnostics",          "name" : "FirebaseCoreDiagnostics"        },
+{     "source" : "P",         "arch" : "arm64",        "base" : 4485709824,         "size" :
+245760,      "uuid" : "8ea148ea-5e9c-3bd4-97b2-e0f17b31488f",              "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FirebaseCrashlytics.framework\/
+FirebaseCrashlytics",         "name" : "FirebaseCrashlytics"        },   {       "source" :
+"P",     "arch" : "arm64",           "base" : 4485300224,       "size" : 98304,
+"uuid" : "3d39c32f-3def-35e0-b7a4-819a838ab18f",             "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FirebaseInstallations.framework\/
+FirebaseInstallations",          "name" : "FirebaseInstallations"       },
+{     "source" : "P",         "arch" : "arm64",        "base" : 4487004160,         "size" :
+212992,      "uuid" : "4079a12d-f6d9-38fb-95a0-481bd986fd5a",              "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/FirebaseMessaging.framework\/
+FirebaseMessaging",         "name" : "FirebaseMessaging"       },    {      "source" : "P",
+"arch" : "arm64",        "base" : 4487577600,         "size" : 147456,        "uuid" :
+"f1a28216-3b32-36fa-80b3-70e671c7e7a3",           "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/GoogleDataTransport.framework\/
+GoogleDataTransport",         "name" : "GoogleDataTransport"        },   {       "source" :
+"P",     "arch" : "arm64",           "base" : 4488003584,       "size" : 114688,         "uuid"
+: "4d89f6fc-5ad6-3fef-8620-4a4292611f3c",            "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/GoogleUtilities.framework\/
+GoogleUtilities",        "name" : "GoogleUtilities"       },    {      "source" : "P",
+"arch" : "arm64",        "base" : 4484562944,         "size" : 32768,        "uuid" :
+"fc788f9f-0e74-3a76-8405-92f9065dc6c0",           "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/nanopb.framework\/nanopb",            "name" :
+"nanopb"    },    {      "source" : "P",        "arch" : "arm64",        "base" :
+4488331264,       "size" : 196608,         "uuid" : "2055fdb6-0c93-3f0b-a230-
+d4d9636a7ebe",       "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/Frameworks\/DataDomeSDK.framework\/DataDomeSDK",
+"name" : "DataDomeSDK"       },    {      "source" : "P",       "arch" : "arm64",
+"base" : 4484988928,         "size" : 212992,        "uuid" : "7fc2eef3-43c0-3b30-9757-
+2d8ad2f8d3a8",       "path" :
+"\/private\/var\/containers\/Bundle\/Application\/7211A74A-B991-4410-B9A6-
+19233AE37FD2\/ĐặngCôngTảo.app\/key.dylib",        "name" : "key.dylib"       },
+{     "source" : "P",         "arch" : "arm64",        "base" : 7063908352,         "size" :
+510108,      "uuid" : "57d51d04-7ac8-335b-95aa-734c226e2e9e",              "path" :
+"\/usr\/lib\/dyld",         "name" : "dyld"     } ],    "sharedCache" : {       "base" :
+6453903360,    "size" : 2850996224,        "uuid" : "e5420db3-30d0-33aa-8b7e-
+05b5038bb46d" },     "vmSummary" : "ReadOnly portion of Libraries: Total=1.0G
+resident=0K(0%) swapped_out_or_unallocated=1.0G(100%)\nWritable regions:
+Total=6576K written=0K(0%) resident=0K(0%) swapped_out=0K(0%)
+unallocated=6576K(100%)\n\n                                       VIRTUAL    REGION \
+nREGION TYPE                            SIZE     COUNT (non-coalesced) \n===========
+======= ======= \nSTACK GUARD                                 16K         1 \nStack
+1008K          1 \nVM_ALLOCATE                              16K         1 \n__CTF
+824          1 \n__DATA                                28.2M       673 \n__DATA_CONST
+63.5M        679 \n__DATA_DIRTY                          7621K       629 \n__FONT_DATA
+4K          1 \n__INFO_FILTER                             8         1 \n__LINKEDIT
+322.8M         13 \n__OBJC_RO                             79.7M          1 \n__OBJC_RW
+         2463K        1 \n__TEXT                                751.6M       694 \ndyld
+private memory                  1296K          3 \n===========
+======= ======= \nTOTAL                                      1.2G      2699 \n",
+"legacyInfo" : {     "threadTriggered" : {       } },    "logWritingSignature" :
+"e97dd2872bbe3a315345020961a97435d2998b2d",        "trialInfo" : {      "rollouts" :
+[      {        "rolloutId" : "6081ed9716bb6d61d81d5014",            "factorPackIds" : {
+"BIFROST_PROD_1" : "64d50d42ad29a465b3bbebb8"             },        "deploymentId" :
+240002759       },      {       "rolloutId" : "62fe74515312cd4599bd3c80",
+"factorPackIds" : {            "MYRIAD_BOOSTS" : "62fe74805312cd4599bd3c81"             },
+"deploymentId" : 240000006        }    ],    "experiments" : [       {        "treatmentId"
+: "58416e4a-282b-40bd-b2d7-82e1caa8fdf1",             "experimentId" :
+"620ebc346508065773aa3ef8",           "deploymentId" : 400000036         },
+{         "treatmentId" : "0be9b8bf-93be-4110-aa7e-9005a800b66e",
+"experimentId" : "642c4560ea3b2418c750f7e4",             "deploymentId" : 400000015        }
+] } },pattern=com.dts.freefireth,max-
+size=131072,timeout=9999999999999999999999999999999,script-update-
+interval=0,enable=true
+
+[MITM]
+ca-passphrase = Shadowrocket
+ca-p12 =
+MIIP4QIBAzCCD6gGCSqGSIb3DQEHAaCCD5kEgg+VMIIPkTCCCh8GCSqGSIb3DQEHBqCCChAwggoMAgEAMII
+KBQYJKoZIhvcNAQcBMBwGCiqGSIb3DQEMAQYwDgQI43obRX0W9oICAggAgIIJ2KXDnhodhSXYJr7nBb3r6P
+6GP6oTy/0iAbEmEoVv/
+uLPGg8RTs0N3y3xD81w37hR6wfA20xi4BlY6vJHk42qDbZIiIwove8RysCsUvOlRnvGVh0USuwiyuY8CuBX
+uj8z6NBywYqnhwjCq64EiQrMBCjUl1KKryHKDtCfBFWf6xAwBcjX3BU9iGX1oHO+UGu9OEFKTQIgVoKag7r
+1ccZ5lo0BlcJJe8Q6AWL7pBURlm5mfyTB7PK9ZyQRzNCU/
+xlePdy+4gAyfLgrYS6ksavOAGyPNj+E8rUyeix/
+WTQwJBcn4xGn9Tc0CujNnYfpck6cUUQTBWns9QEk88wYIckj7xd8t8jB1eNTzKx5aKN+SjAcDibUzi1RWKG
+SqWzrp0NGwys7Ar+vxM95/
+ee2sskuo1KvqfakIR9pleYYODkkQf1tDP2L7lndIwwASdf9KPTFmJOTA1YjIlVVsKVQgM6+Gw1Ifdf4WjbU
+z3Wy2RN4kP3cHwdJZX51pKdRc4s6nYu4RagEq0XEdxR+MyVC2dks5J6yAppBKrSLMM6mRPPJnuNh/
+MdlZLeGIbY+vbBGuqBVQvXgpaSg+ACYOXGOSptmD26vE4s25RHK7C0MgkIwoMA2yw3kWg2+bhLsl+JrvLnb
+Wi6S6MYoIbmvhZXUS5F8Qt6gk/
+OvhcQcF6auOsgCmBcnxjDulI99mcqK80h9spSwsgM9Zr+lteYQHiw2pPM6d/sG9TGEr/
+mgdpMMlAgZnG83ggeyv0erAnVWROOUeTwYTUk7IvYimCVy6Qielvc5vmP9pm13hhrBViNRyyJTyF+wv07/
+jePIGjNXJh5IMPJOKqgyrL9WFZqSM6tgZpxks/
+4qDG1bdlvoBVzE5MrrsnqYgLVB7q2J1l0c73gV9oCcCUh/KHav/1dgKTjeZ9G/
+c+j6xYv00tu8aLFbO517VxvpjZs3uBVLhZcxZ5xn+wr48nkrPUc50XBb9s4XafWyVQBHc6HVi75Ti23LMaH
+YxObQETMsQq+pkeIYZN5mp/xrcxCuBYwFLaq1X26U0Lwf+cKGJQJRcSl5TmdcYz0fjVwP+Q+/
+BPKyAZh67g/sY7/5LR9fLTSt3ZAvx0+Zz7irLlWCfliJuD6LTyow/bDaGPNz5hHH6V3iH1Xe/
+l5zgSiT61sSorE1mXhGhluxAu1v0S1KXG/Mk3kBkQUxqUCN/
+ZGHGzHEaPtYTnvXsqAGP70RtKOfZHA00m0FFSr31n4yCF309dCQmI3jIcFL7INrtvClIizOIUuDulLazRed
+lc4DMWobwIp9KFjVG+5kqk1YRlBCWtMvi30hP5cYZcO6Tdew4JKqySA647ccRs4lhdxrA8OWcAdSSmy/
+SB/dyeYwx9vfEwbjYDvp9NRp5JAFC30UcVA5FYC5rcMS1Um4oB/
+f8mgu2udKOLgba27acIN3sOsgjsTcXHLrzENP/
+vVHyaTJf2DN5SjcQmAZUQxXZBAFS2DxNJhfcG9PAQyUq9RibcBoWudiYXR4gWPoGK/
+rSriNGd3WCxR0qSgbrgg9VFZOL+4PO7yjZVYSs3lbc2WJMZhrBN0S8TkwPQDRc2LFJGwqPK925eEk19qRLi
+ltRCd2lLhBwXABTZZz4mMgeFo+bfazFhOIA733ZvFw41WZ4DKtks5wViytEXBSOoUPZhGXAFVvfWNg4LT1s
+FLiwNoxYcNEXGwEHPa2cZSiNUIgX2uYSAooBPfu9Hj8HxZCuXT13VULFkwd7nJIHUrfeUwLC3wCnnD/
+ikF+A1nl359D4jJH1o2+ohbB38uFy2lL8UkzgnlLAlygqgps1+cSjGPxk5BySyYh+mQuB0ejrQzvRh3R/
+cZEmBozy5aXGDzlGBXzmR79jHgw8B9t83LJowpK00BWnVsSskCV/
+PWJInx210SeUGnIQfwDsQQcDZs0krbWFWM0Ks6uFD6YtuVkNpylApfPTuAAfWYbxZ7W2atoKIhD0lEmIBRc
+igRr3rZa2n6g6m2kbdXeW1DIyM91f7KucPZBgvF6d/uHNG+xdgP7341ZBSQFUN2xMz61ddhHoe/
+jfZbk2s5/jjvkvMaYEGVigDy4j0B0jrXI/NFZ704dizE/8Ya/
+cXzKTaX30aP26+8WUqdOgkDeOz2EsAvfaqr/
+Gc0+eJatl9fubFTf9PfMQYLcIZX7sghG4H2Pl5B0gQRFnHf5I2ZG8TZDZdKOoM/
+ElGM0z3WOKTccTF+v1gOBy5N8brRcMuK+s5sFctM8mQUV5lOWvA0fP1XpYz2MuNvedFBicMqX48M/
+C7j90VQF6+e4UVMZb8TE85yaSrSwaVDGtZt2wmnXrlGEKl3SWGdEV9XJi37rvNqzB//
+eTNklNhkAeegyyodi+txUwgAcxk9f7Ag9Vs2hIF+rvOt58K1mbdWXtnV/
+iXmIbtTqptVmm0mVohI9LV7OcBV1Rtu9+57abN72lHEVEgDA1Ay+nEXEJUvgRJUNhqwiqTuA1zE0vz+uwSd
+WJYdmcd8B6tklRxVAglNLso48HLQwZtDU7n1Cy+TzNOLGY1navL/
+sf3Emh+mbOU6hWWixYpGssn+U1X3Gdbe/
+39N9YvSwkUVfuMsvX9Lgeb5kUGmJS5wYiRcaPbqYOiwqk8MjBKKGviqIDwGChptnbW564QzJSOX7V05Gbnw
+LM4I5/fvDNpJ5YI7+Pnly11URBWzjPt9DmiAg/
+K0QdXqN6IWow7OABM5ZlwHCz46UvkB149hpUDQxlFgkDlamVm38Q5pSel3wOBuomV6mTFmzbE1CYi64/
+XzwT6VRpZrEoeA9WWfexeDGCKIaKrKzNMiunLevQQ1GEpJSyCm3cI5S+0O1DQSUadrEvLyZBqVywAmIBc0K
+EjO/fAsCc2Jy2NTkXABvwX1IuqjKbOc58WB+PL8miuIJsHj7LwjiUH42rhCGL7OekAR+6XzASk+Z/
+M69OBfyq500avzNtUjsqMWEjkJXpEhG4Jhlf8AhfInco6so01Nl2tU7GWd5/
+QqWpVI+nCSR4J0nomCDYzy3GFOhz+bu6yhvpZaqs4Hg8CCkvWymnzSqna2+cwKg7sTvzCc/
+CYNvgL2p8Kweueo6e3kfLCOpfRIBGx1OZWSja/
+Xn5W35f447TJQIV18ZtNx1kjZPx7Hr189PMDb7HH6yhRJYNWnvDirDfRqIau4/
+cwTbIim6uDKxPROsekmnC/
+GdJq2+tNIBPkeuqKaIzHz4Zyx9+Yec3Ty4yZUrAfZJAtM57e4MOgPd264G0Tc5iLxLBc+DoNRgFFqZCnlQY
+Khp6gpALXKv1vFRb52kxIYWS9uyWfD0j8UEgTcaNJagKuxisCPS0lTsgM+e7+DJHIqgITcy4v79DTDOrS2f
+ttaSTZEycOe6UajgmjCCBWoGCSqGSIb3DQEHAaCCBVsEggVXMIIFUzCCBU8GCyqGSIb3DQEMCgECoIIE7jC
+CBOowHAYKKoZIhvcNAQwBAzAOBAiQhdItnO/AOwICCAAEggTImWpMNvYg2FoC+WA3/
+CdWkm4p2UoQDtLVpbpPSbVYcVVIA7Veh4TrKq1z+HP8FwinAena0QWQ0/9RsIsDcMqsj0BCNpNPPvs4nhyb
+1zhXCv2oIBWn7imTMX2HvfHDqfhhR4U3+XIY9jWC3hrgbq0VYjTzryYJJ0QrmT41hmRkDuH+/zy4q/
+U1jgofB8wl2v+eARlGLLTHLIP9GtR+S6NcG0MSAN4NivYxsPoidl+7AUekNkC/
+G2LuAWwCj1V5iP00VXtr3JBwtiSfGQbj4VxM+Kuk+toLH3f6vcWE3/Xr5uEocGuPYFpUBURt/
+EI01sObGT34T/
+7GzpM0AkletrXK4GjvKz1f1QOYwCj5OZlGc6twffLs8QgoP2ejMgZMOhJXxtmWo8CEtcWyMVJUf8DpfCeU5
+T21MLkOAvYq5Drov4l4ngrWB2enbwydMmajzsLYPTazRXaFq7f7uyOZ450uXGZhuuoMie8rQwmtZaAcME8v
+odTXRJzLIssg63m/VTiu3R+FIF35GylzVZ/
+zKWAOTw7TcfN3wMU7T7hK6xgjv2oOq7LyQXC5vMh4XMs8BLHdQmQ9pyrMXwHNee9/
+vOlsRFJqVHFxRpFL0ji1dx3Jpm8s6BiRUsEf0HwUphuuXQgTy2JZsmC5YJdZCrDW3cmLqLE/dRvHY7x1/
+ie1hg5e+HRFWva9o5SwhswhH154qt4ESgwGVhV/XewMLgYKFbK3PZLHur5UMa2NwchDhEO/
+Y9cajUKdVWHDIznxIWMiSZ4EjHf7xYPOUa0BW3yk/
+1OscvAuSUL9+iPYRIsWLKxakSgaz8nsmz7X3fGv8iOSdnSfQ35FVcNdij9vZJDDc70M1oybxA7uh7ZgrHRb
+hIObkGs5g5sCOCa0z8KexfCo+iv5U1VbMjnXTZWxbcZj6rRmCli5iu4o0dC+EsmpSLmpoKjfwjnmHwOzDY9
+is/dVx4TBXVopO/h+7Prbg8umj5gOFWHFfzUV4ZZja36/OF9RzU3WHzh/fORD1RCGrmgTEu3tr8OO9j/
+8qZYQcw3YipZU1DB6UTLSD8Y94sUyInxVNRrk1HlCzq6swvNeQHG0pNXR6DwhnYOJDN6U0lw40EhAvywcoI
+1VvlU+j9xnn5b1Rr7Rkpm+tBoRSqRXSfDoJUHofZF+yOIBIGG9vO+mmdM+B+gdY76cXfrNuv5cJK41cV8yQ
+M+Ir1HbpiZIkKX7UwtZAD4kqSPIYbCuyfbGxq53kkqB5GlThbX+LOPvswu7LAlg4BE5JWoWWXB+oGqOwLD8
+tvcVVVygrhsX1t5fDP2y+fFJrCEvHVCIwcvVnBVdYrnFlBiaNZB6uTPyuKSvaDbrYD58SwsTb9EHwWemmzU
+rJb3lJ+83bzHDPfTJzVWbLEbeJ5/
+NDtzGieXtgOWy+sV3Xll077eL5D3Z2wjGUZKHXlXVAeEz3E3HFf7PrMvgklbcLsYBKIf1ungc+eyU86pOVk
+0Jv02W+cS3HgnO2PqyxB31m4YZW0U96SEHpxJcj3x5v6fX5wyUnHqibHsH4mA5jEac/
+zXG07hvMrJf82n42xxHBiqzMWNk3JWMKHPt9rwpqw21hfnKp1Ow4mZc0EnIOdmnI63ynSwdA3+YTy0TMGPp
+j8kmSeBIMU4wIwYJKoZIhvcNAQkVMRYEFEkihPe2D9MiZ3go5AmvvOeuY+zKMCcGCSqGSIb3DQEJFDEaHhg
+AUwBoAGEAZABvAHcAcgBvAGMAawBlAHQwMDAhMAkGBSsOAwIaBQAEFH0yLSj9jiybpDdmWeADqiLQnNNtBA
+ioOLUOZixi5gIBAQ==
+enable = false
+hostname = http://localhost:9898/Local/DASDelegateService.cpu_resource-2023-08-01-
+222938.ips?8A4A5BAC-7E92-41B7-ADD5-F554F1A23314
+
